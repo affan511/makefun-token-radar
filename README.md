@@ -1,5 +1,9 @@
 # Token Radar — radar-2
 
+[![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/affan511/makefun-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/affan511/makefun-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01)
+
 A token launch radar for make.fun's `token-radar-01` bounty. It reads a sealed
 DefiLlama snapshot of 758 protocols, ranks every genuinely pre-token protocol by
 what its launch would be worth, and hands in a static dashboard that shows the
